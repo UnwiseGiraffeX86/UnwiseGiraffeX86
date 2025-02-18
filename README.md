@@ -9,12 +9,12 @@
 </h1>
 
 <p align="center">
-  <em>[A one-liner about yourself: for example, "Passionate Full Stack Developer focusing on X, Y, Z."]</em>
+  <em>Soon to be Electrical Engineering Student creating Electronics and Web Apps</em>
 </p>
 
 <p align="center">
   <!-- Replace with your LinkedIn URL -->
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+  <a href="https://www.linkedin.com/in/geala-stefan-1a7105239/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <!-- GitHub Followers Badge (replace 'Stefan' with your actual GitHub username if needed) -->
