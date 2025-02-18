@@ -37,24 +37,23 @@
 
 ## 🚀 Featured Projects
 
-### **[Project #1]**  
-A brief, catchy description of your project:
+### **[Project #1: Environmental Monitoring Dashboard]**
+A web-based platform for real-time tracking of environmental data:
 
-- ⭐ **Key Feature 1**  
-- ⚙️ **Key Feature 2**  
-- 💻 **Tech Stack**  
-- 🔓 **Open Source?** (If yes, mention license or repo link)
+- ⚙️ **Technologies:** React, Python, Arduino/ESP32 data pipelines  
+- 🌱 **Focus:** Display temperature, humidity, air quality sensor data  
+- ♻️ **Outcome:** Provides actionable insights for sustainability efforts  
 
 [**View Project**](#) | [**Documentation**](#)
 
 ---
 
-### **[Project #2]**  
-A short summary of what this project does and why it’s awesome:
+### **[Project #2: Custom IoT Sensor Prototype]**
+A specialized sensor design for remote data acquisition in harsh environments:
 
-- 🔍 **What it solves**  
-- 💡 **Key Innovations**  
-- 🛠️ **Tools/Frameworks**  
+- 🔌 **Hardware:** ESP32, custom PCB design via EasyEDA  
+- 🔍 **Firmware:** C++, Arduino libraries, real-time data processing  
+- 🌿 **Application:** Precision agriculture, wildlife monitoring, or smart cities  
 
 [**View Project**](#)
 
