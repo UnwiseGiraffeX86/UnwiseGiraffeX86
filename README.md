@@ -27,10 +27,11 @@
 
 ## 🎯 What I Do
 
-- 🏗️ **[Skill/Expertise #1]** – Describe your main area of expertise.  
-- 💻 **[Skill/Expertise #2]** – Another key skill you have or field you enjoy.  
-- 🚀 **[Skill/Expertise #3]** – A third focus area (e.g., AI, cybersecurity, hardware design, etc.).  
-- 🤝 **[Collaboration]** – Mention what you like to collaborate on.
+- 🌱 **Frontend development** for user-friendly web applications  
+- 🌐 **IoT sensor design** and **real-time environmental monitoring** solutions  
+- 🚀 **End-to-end product development**: from ideation to deployment  
+- ♻️ **Environmental research** focusing on **sustainability** and **AI-powered platforms**  
+- 🤝 I prioritize **regular communication** to ensure smooth collaboration and timely deliveries
 
 ---
 
