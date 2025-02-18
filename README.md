@@ -98,7 +98,7 @@ A specialized sensor design for remote data acquisition in harsh environments:
 ## 📫 Let's Connect!
 
 - 💼 Open for collaboration on **frontend, IoT, and environmental** projects
-- 📧 Reach me at: [**your.email@example.com**](mailto:your.email@example.com) (replace with your email)
+- 📧 Reach me at: [**stefanut.geala@gmail.com**](mailto:stefanut.geala@gmail.com)
 - 🌐 [**Your Personal Website or Portfolio**](#)  
 
 ---
@@ -106,8 +106,8 @@ A specialized sensor design for remote data acquisition in harsh environments:
 ## ⚡ GitHub Stats
 <p align="center">
   <!-- Replace 'Stefan' with your actual GitHub username -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Stefan&show_icons=true&theme=react" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Stefan&theme=react" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UnwiseGiraffeX86n&show_icons=true&theme=react" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=UnwiseGiraffeX86&theme=react" />
 </p>
 
 ---
