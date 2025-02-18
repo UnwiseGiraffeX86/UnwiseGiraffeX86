@@ -5,7 +5,7 @@
 -->
 
 <h1 align="center">
-  Stefan | [Your Role/Focus] 🎯
+  Stefan | Electrical & Software Engineering Service Provider | IoT Developer 🎯
 </h1>
 
 <p align="center">
