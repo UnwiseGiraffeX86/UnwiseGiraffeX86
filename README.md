@@ -16,7 +16,7 @@
   <!-- Replace with your LinkedIn URL -->
   <a href="https://www.linkedin.com/in/geala-stefan-1a7105239/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  </a> 
   <!-- GitHub Followers Badge (replace 'Stefan' with your actual GitHub username if needed) -->
   <a href="https://github.com/UnwiseGiraffeX86?tab=followers">
     <img src="https://img.shields.io/github/followers/UnwiseGiraffeX86?style=social" alt="GitHub Followers"/>
@@ -107,7 +107,6 @@ A specialized sensor design for remote data acquisition in harsh environments:
 <p align="center">
   <!-- Replace 'Stefan' with your actual GitHub username -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UnwiseGiraffeX86&show_icons=true&theme=react" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=UnwiseGiraffeX86&theme=react" />
 </p>
 
 ---
