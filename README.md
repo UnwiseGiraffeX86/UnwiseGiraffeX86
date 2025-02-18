@@ -106,7 +106,7 @@ A specialized sensor design for remote data acquisition in harsh environments:
 ## ⚡ GitHub Stats
 <p align="center">
   <!-- Replace 'Stefan' with your actual GitHub username -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UnwiseGiraffeX86n&show_icons=true&theme=react" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UnwiseGiraffeX86&show_icons=true&theme=react" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=UnwiseGiraffeX86&theme=react" />
 </p>
 
