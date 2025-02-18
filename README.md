@@ -37,7 +37,7 @@
 
 ## 🚀 Featured Projects
 
-### **[Project #1: Environmental Monitoring Dashboard]**
+### **Project #1: Environmental Monitoring Dashboard**
 A web-based platform for real-time tracking of environmental data:
 
 - ⚙️ **Technologies:** React, Python, Arduino/ESP32 data pipelines  
@@ -48,7 +48,7 @@ A web-based platform for real-time tracking of environmental data:
 
 ---
 
-### **[Project #2: Custom IoT Sensor Prototype]**
+### **Project #2: Custom IoT Sensor Prototype**
 A specialized sensor design for remote data acquisition in harsh environments:
 
 - 🔌 **Hardware:** ESP32, custom PCB design via EasyEDA  
