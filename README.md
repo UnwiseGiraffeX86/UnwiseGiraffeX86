@@ -61,47 +61,45 @@ A specialized sensor design for remote data acquisition in harsh environments:
 
 ## 💼 Past Project Highlights
 
-| Project                   | Description                                      | Tech Stack                 |
-|---------------------------|--------------------------------------------------|----------------------------|
-| **[Project Name]**        | Brief summary of what you built or achieved      | e.g., React, Node.js, AWS  |
-| **[Project Name]**        | Another interesting highlight                    | e.g., Python, Flask, SQL   |
-| **[Project Name]**        | Something that shows variety                     | e.g., Docker, K8s, Ansible |
-| **[Project Name]**        | Or your earliest public project                  | e.g., C++, Arduino         |
+| Project                   | Description                                                  | Tech Stack                       |
+|---------------------------|--------------------------------------------------------------|----------------------------------|
+| **Smart Greenhouse**      | Automated climate control system for indoor farming         | React, Arduino, Node.js          |
+| **Air Quality Tracker**   | Portable IoT device for real-time PM2.5 and CO2 monitoring  | ESP32, PCB (EasyEDA), Python     |
+| **AI-powered Insights**   | ML model to predict environmental trends                    | Python, TensorFlow, Data Analysis|
+| **Sensor Data Hub**       | Unified API for multiple sensor endpoints                   | C#, Docker, Azure IoT            |
 
 ---
 
 ## 🛠️ Technical Arsenal
 
 ### **Software & Tools**
-- **Languages:** [List your preferred programming languages here]
-- **Frameworks/Runtime:** [e.g., Node.js, React, Django, etc.]
-- **Databases:** [e.g., MySQL, MongoDB, PostgreSQL]
-- **IDEs:** [e.g., Visual Studio Code, IntelliJ, etc.]
-- **Version Control:** Git │ GitHub │ GitLab
-- **Cloud/DevOps:** [e.g., AWS, Docker, Kubernetes, CI/CD tools]
+- **Languages:** C++, C#, Python  
+- **Frontend/Design:** Figma, React  
+- **Hardware/PCB:** Arduino, ESP32, EasyEDA  
+- **Expertise:** PCB Design, Data Analysis, Scripting  
+- **Project Management:** Full lifecycle (ideation → deployment)  
 
-### **Additional Skills** (optional)
-- **Algorithms & Data Structures**
-- **AI/ML** (if relevant)
-- **UI/UX** or **Graphic Design** (if relevant)
-- **Electronics** or **Embedded Systems** (if relevant)
+### **Focus Areas**
+- **AI-powered platforms** for environmental data analysis  
+- **Sustainability & IoT integration** to reduce carbon footprints  
+- **Real-time monitoring solutions** bridging hardware and software  
 
 ---
 
 ## 📈 Future Directions
 
-- 🌱 **Learning** [New frameworks/technologies you’re exploring]  
-- 🌐 **Open-source** – how you plan to contribute or maintain your own repos  
-- 💡 **Research** – mention any upcoming research interests, advanced topics, or personal goals  
-- 🤝 **Collaboration** – highlight the type of projects or people you’d love to team up with  
+- 🔬 Further **IoT sensor** research in remote or extreme conditions  
+- ♻️ Scaling **sustainability** projects and **AI** integrations  
+- 🌐 Expanding **open-source** collaborations for environmental solutions  
+- 🤝 Looking to **team up** on projects that blend **tech** and **ecological impact**  
 
 ---
 
 ## 📫 Let's Connect!
 
-- 💼 Open for collaboration on **[areas of interest]**
-- 📧 Reach me at: [**your.email@example.com**](mailto:your.email@example.com)
-- 🌐 [**Your Personal Website or Portfolio**](#)
+- 💼 Open for collaboration on **frontend, IoT, and environmental** projects
+- 📧 Reach me at: [**your.email@example.com**](mailto:your.email@example.com) (replace with your email)
+- 🌐 [**Your Personal Website or Portfolio**](#)  
 
 ---
 
@@ -116,5 +114,5 @@ A specialized sensor design for remote data acquisition in harsh environments:
 
 ### Popular Repositories
 <!-- Highlight or pin some of your popular/favorite repos -->
-- [**MyAwesomeRepo**](#) – Short description or key features
-- [**AnotherCoolRepo**](#) – Quick intro or what makes it interesting
+- [**IoT-EnvMonitor**](#) – Arduino-based system for measuring environmental parameters
+- [**Frontend-Sustainability-App**](#) – React-based UI with real-time sensor data feed
