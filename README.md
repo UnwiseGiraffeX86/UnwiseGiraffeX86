@@ -18,8 +18,8 @@
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <!-- GitHub Followers Badge (replace 'Stefan' with your actual GitHub username if needed) -->
-  <a href="https://github.com/Stefan?tab=followers">
-    <img src="https://img.shields.io/github/followers/Stefan?style=social" alt="GitHub Followers"/>
+  <a href="https://github.com/UnwiseGiraffeX86?tab=followers">
+    <img src="https://img.shields.io/github/followers/UnwiseGiraffeX86?style=social" alt="GitHub Followers"/>
   </a>
 </p>
 
