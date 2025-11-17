@@ -98,7 +98,7 @@ This passion for finely tuned systems defines my approach to engineering. I view
    <a href="https://github.com/UnwiseGiraffeX86" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-   <a href="./CV_GSO_ML.pdf" target="_blank">
+   <a href="./CV_GSO.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download_CV-FF5733?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download CV">
   </a>
 </p>
