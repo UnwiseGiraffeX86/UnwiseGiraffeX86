@@ -1,6 +1,8 @@
-[[<p align="center">
+<p align="center">
   <img src="./github_banner.png" alt="UnwiseGiraffeX86 Banner">
 </p>
+
+### Hi there, I'm Geala Stefan-Octavian 👋
 
 ---
 
@@ -63,7 +65,7 @@ This passion for finely tuned systems defines my approach to engineering. I view
 * **Tech Stack:** `C++`, `Embedded Systems`, `STM32`, `Sensor Integration`, `KiCad`
 
 #### **The Bucharest Hackathon - 5th Place (2024)**
-* **Objective:** Built a custom hardware logistics system for real-time delivery route optimization.
+* **Objective:** Built a custom hardware logistics system for real-time delivery route.
 * **Outcome:** Slashed fuel use by 15% and boosted efficiency by 25%. Pure performance tuning.
 * **Tech Stack:** `C++`, `ESP32`, `Python`, `Route Optimization Algorithms`
 
@@ -91,5 +93,12 @@ This passion for finely tuned systems defines my approach to engineering. I view
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:stefan.geala@stud.fils.upb.ro">
-](https://github.com/UnwiseGiraffeX86)
-](https://github.com/UnwiseGiraffeX86)
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+   <a href="https://github.com/UnwiseGiraffeX86" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+   <a href="./CV_GSO_ML.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download_CV-FF5733?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download CV">
+  </a>
+</p>
