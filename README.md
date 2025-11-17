@@ -1,117 +1,103 @@
-<!-- 
-  Filename: README.md
-  Author: Stefan
-  Description: GitHub Profile README
--->
+### Hi there, I'm Geala Stefan-Octavian 👋
 
-<h1 align="center">
-  Stefan | Electrical & Software Engineering Service Provider | IoT Developer 🎯
-</h1>
 
-<p align="center">
-  <em>Soon to be Electrical Engineering Student creating Electronics and Web Apps</em>
-</p>
-
-<p align="center">
-  <!-- Replace with your LinkedIn URL -->
-  <a href="https://www.linkedin.com/in/geala-stefan-1a7105239/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a> 
-  <!-- GitHub Followers Badge (replace 'Stefan' with your actual GitHub username if needed) -->
-  <a href="https://github.com/UnwiseGiraffeX86?tab=followers">
-    <img src="https://img.shields.io/github/followers/UnwiseGiraffeX86?style=social" alt="GitHub Followers"/>
+<p align="left">
+  <a href="https://shorturl.at/5MCLR" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:stefan.geala@stud.fils.upb.ro">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
----
-
-## 🎯 What I Do
-
-- 🌱 **Frontend development** for user-friendly web applications  
-- 🌐 **IoT sensor design** and **real-time environmental monitoring** solutions  
-- 🚀 **End-to-end product development**: from ideation to deployment  
-- ♻️ **Environmental research** focusing on **sustainability** and **AI-powered platforms**  
-- 🤝 I prioritize **regular communication** to ensure smooth collaboration and timely deliveries
+> [!TIP]
+> **[Download my full CV (PDF)](./CV_GSO_ML.pdf)**
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Professional Summary
 
-### **Project #1: Environmental Monitoring Dashboard**
-A web-based platform for real-time tracking of environmental data:
 
-- ⚙️ **Technologies:** React, Python, Arduino/ESP32 data pipelines  
-- 🌱 **Focus:** Display temperature, humidity, air quality sensor data  
-- ♻️ **Outcome:** Provides actionable insights for sustainability efforts  
-
-[**View Project**](#) | [**Documentation**](#)
+Innovative young engineer and environmental researcher with hands-on experience in IoT systems, embedded hardware design, and web development. Passionate about sustainability and smart city solutions, with a proven record of developing integrated hardware and software platforms that leverage data and machine learning to improve efficiency, reduce emissions, and promote environmental awareness.
 
 ---
 
-### **Project #2: Custom IoT Sensor Prototype**
-A specialized sensor design for remote data acquisition in harsh environments:
+### 🛠️ Technical Skills
 
-- 🔌 **Hardware:** ESP32, custom PCB design via EasyEDA  
-- 🔍 **Firmware:** C++, Arduino libraries, real-time data processing  
-- 🌿 **Application:** Precision agriculture, wildlife monitoring, or smart cities  
 
-[**View Project**](#)
-
----
-
-## 💼 Past Project Highlights
-
-| Project                   | Description                                                  | Tech Stack                       |
-|---------------------------|--------------------------------------------------------------|----------------------------------|
-| **Smart Greenhouse**      | Automated climate control system for indoor farming         | React, Arduino, Node.js          |
-| **Air Quality Tracker**   | Portable IoT device for real-time PM2.5 and CO2 monitoring  | ESP32, PCB (EasyEDA), Python     |
-| **AI-powered Insights**   | ML model to predict environmental trends                    | Python, TensorFlow, Data Analysis|
-| **Sensor Data Hub**       | Unified API for multiple sensor endpoints                   | C#, Docker, Azure IoT            |
+* **Rapid Prototyping:** KiCad, EasyEDA, Fusion 360
+* **Data Analytics & Programming:** $C/C++$, Python, MATLAB, Java, TypeScript
+* **Low-power Microcontrollers:** ESP32, STM32, RP2040, Arduino
+* **Frontend Development:** React, TailWind
+* **Sensing & Monitoring:** Sensor systems, environmental modules
+* **Version Control:** GitHub & Git (project collaboration, code management)
+* **Automation & Scripting:** Excel VBA (data processing), Bash
 
 ---
 
-## 🛠️ Technical Arsenal
+### 🏆 Selected Projects & Hackathons
 
-### **Software & Tools**
-- **Languages:** C++, C#, Python  
-- **Frontend/Design:** Figma, React  
-- **Hardware/PCB:** Arduino, ESP32, EasyEDA  
-- **Expertise:** PCB Design, Data Analysis, Scripting  
-- **Project Management:** Full lifecycle (ideation → deployment)  
 
-### **Focus Areas**
-- **AI-powered platforms** for environmental data analysis  
-- **Sustainability & IoT integration** to reduce carbon footprints  
-- **Real-time monitoring solutions** bridging hardware and software  
+#### **Axes Hackathon - 1st Place (2023)**
+* Developed an integrated web and hardware platform for urban air quality and traffic monitoring.
+* Implemented ML algorithms optimizing traffic light intervals in real time, reducing congestion by up to 35% and emissions by 20%.
+* Processed 100,000 daily data points for sustainability insights.
 
----
+#### **Qube2Space - 1st Place (2022)**
+* Designed and built a fully functional $5 \times 5 \times 5$ cm Pocket Qube satellite capable of withstanding flight and atmospheric forces up to 9 km altitude.
+* Integrated multiple environmental sensors for atmospheric pressure, 3-axis acceleration, ozone concentration, and weather prediction.
+* All data was processed onboard using a custom embedded system and stored locally on a flash module.
 
-## 📈 Future Directions
+#### **Qube2Space - 4th Place (2023 & 2024)**
+* Improved communication and onboard computing for data reliability during transmission.
 
-- 🔬 Further **IoT sensor** research in remote or extreme conditions  
-- ♻️ Scaling **sustainability** projects and **AI** integrations  
-- 🌐 Expanding **open-source** collaborations for environmental solutions  
-- 🤝 Looking to **team up** on projects that blend **tech** and **ecological impact**  
+#### **The Bucharest Hackathon - 5th Place (2024)**
+* Developed a custom hardware-based logistics system that scanned shipping labels and computed optimal delivery routes in real time.
+* Achieved a 15% reduction in fuel use and a 25% improvement in efficiency.
 
 ---
 
-## 📫 Let's Connect!
+### 🎓 Education
 
-- 💼 Open for collaboration on **frontend, IoT, and environmental** projects
-- 📧 Reach me at: [**stefanut.geala@gmail.com**](mailto:stefanut.geala@gmail.com)
-- 🌐 [**Your Personal Website or Portfolio**](#)  
+
+**National University of Science and Technology Politehnica Bucharest**
+* *Faculty of Engineering in Foreign Languages (FILS)*
+* *B.Sc. in Electronics Engineering (2025 - Present)*
+* **Relevant Coursework:** Embedded Systems, Circuit Design, IoT Development, Applied AI
+* **Focus:** Practical research and real-time data systems with applications in sustainability and biomedical innovation.
 
 ---
 
-## ⚡ GitHub Stats
-<p align="center">
-  <!-- Replace 'Stefan' with your actual GitHub username -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UnwiseGiraffeX86&show_icons=true&theme=react" />
+### 💡 Soft Skills
+
+
+* **Teamwork:** Boosted cross-functional IoT project efficiency by 20%.
+* **Leadership:** Directed a 5-member prototype build under strict deadlines.
+* **Creativity:** Enhanced performance by 30% through novel algorithms.
+* **Analytical:** Resolved integration challenges, reducing downtime by 15%.
+* **Communication:** Explained complex designs to non-technical audiences for alignment.
+* **Project Coordination:** Delivered prototypes on time and within budget.
+* **Adaptability:** Met changing requirements while maintaining quality.
+
+---
+
+### 🗣️ Languages
+
+* **English:** Fluent
+* **Romanian:** Native
+
+---
+
+### 📫 How to Reach Me
+
+<p align="left">
+  <a href="https://shorturl.at/5MCLR" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:stefan.geala@stud.fils.upb.ro">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+   <a href="https://github.com/UnwiseGiraffeX86" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
-
----
-
-### Popular Repositories
-<!-- Highlight or pin some of your popular/favorite repos -->
-- [**IoT-EnvMonitor**](#) – Arduino-based system for measuring environmental parameters
-- [**Frontend-Sustainability-App**](#) – React-based UI with real-time sensor data feed
