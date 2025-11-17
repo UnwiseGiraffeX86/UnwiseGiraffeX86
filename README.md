@@ -1,4 +1,4 @@
-<p align="center">
+[<p align="center">
   <img src="./github_banner.png" alt="UnwiseGiraffeX86 Banner">
 </p>
 
@@ -91,3 +91,4 @@ This passion for finely tuned systems defines my approach to engineering. I view
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:stefan.geala@stud.fils.upb.ro">
+](https://github.com/UnwiseGiraffeX86)
