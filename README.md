@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./github_banner.png" alt="UnwiseGiraffeX86 Banner">
+</p>
+
 ### Hey there, I'm Geala Stefan-Octavian! 🏎️
 
 <p align="left">
@@ -10,7 +14,7 @@
 </p>
 
 > [!TIP]
-> **[Download my full CV (PDF)](./CV_GSO_ML.pdf)**
+> **[Download my full CV (PDF)](./CV_GSO.pdf)**
 
 ---
 
