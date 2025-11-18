@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./github_banner.png" alt="UnwiseGiraffeX86 Banner">
+  <img src="./banner.png" alt="UnwiseGiraffeX86 Banner">
 </p>
 
 ### Hi there, I'm Geala Stefan-Octavian 👋
