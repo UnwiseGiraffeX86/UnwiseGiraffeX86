@@ -3,6 +3,9 @@
 </p>
 
 ### Hi there, I'm Geala Stefan-Octavian 👋
+<a href="./CV_GSO.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download_CV-FF5733?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download CV">
+</a>
 
 ---
 
