@@ -2,7 +2,7 @@
   <img src="./banner.png" alt="UnwiseGiraffeX86 Banner">
 </p>
 
-### Hi there, I'm Geala Stefan-Octavian 👋
+### Hi there, I'm Stefan 👋
 
 ---
 
